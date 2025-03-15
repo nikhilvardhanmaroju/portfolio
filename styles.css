@@ -76,7 +76,6 @@ body {
 @media only screen and (max-width: 600px) {
   .banner {
     background-image: url('assets/banner2.jpg'); /* Mobile banner image */
-    height: 70vh; /* Adjust height for mobile */
   }
 }
 
