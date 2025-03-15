@@ -75,7 +75,7 @@ body {
 /* Change banner image for mobile devices */
 @media only screen and (max-width: 600px) {
   .banner {
-    background-image: url('assets/banner2.jpg'); 
+    background-image: url('banner2.jpg'); 
   }
 }
 
