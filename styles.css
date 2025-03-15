@@ -62,7 +62,7 @@ body {
 .banner {
   position: relative;
   height: 100vh; /* Full viewport height */
-  background-image: url('banner.jpg'); /* Replace with your image URL */
+  background-image: url('banner1.jpg'); /* Replace with your image URL */
   background-size: cover; /* Cover the entire section */
   background-position: center; /* Center the image */
   display: flex;
