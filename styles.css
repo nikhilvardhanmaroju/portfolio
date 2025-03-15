@@ -72,6 +72,14 @@ body {
   text-align: left; /* Align text to the left */
 }
 
+/* Change banner image for mobile devices */
+@media only screen and (max-width: 600px) {
+  .banner {
+    background-image: url('assets/banner2.jpg'); /* Mobile banner image */
+    height: 70vh; /* Adjust height for mobile */
+  }
+}
+
 .banner-overlay {
   position: absolute;
   top: 0;
